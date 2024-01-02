@@ -1,5 +1,5 @@
 {
-    "taskDefinitionArn": "arn:aws:ecs:us-east-1:236540299585:task-definition/rtaskdef:2",
+    "taskDefinitionArn": "arn:aws:ecs:us-east-1:236540299585:task-definition/rtaskdef:3",
     "containerDefinitions": [
         {
             "name": "nodeapp",
@@ -32,7 +32,7 @@
     "family": "rtaskdef",
     "executionRoleArn": "arn:aws:iam::236540299585:role/ecsTaskExecutionRole",
     "networkMode": "awsvpc",
-    "revision": 2,
+    "revision": 3,
     "volumes": [],
     "status": "ACTIVE",
     "requiresAttributes": [
